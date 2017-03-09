@@ -1,0 +1,46 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #363636;
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background: #ffa000;
+}
+
+#main-nav {
+    background: #5093a7;
+}
+
+#page {
+    background: red;
+    text-align: center;
+}
+
+#main-content {
+    background: ;
+    display: inline-block;
+    width: 960px;
+    min-height: 600px;
+    text-align: left;
+    position: relative;
+    padding-bottom: 120px; 
+    overflow: hidden;
+}
+
+.menu-row ul {
+    list-style-type: none;
+}
+
+.menu-row ul li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.menu-row ul li a {
+    text-decoration: none;
+}
+ 
